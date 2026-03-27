@@ -1,14 +1,18 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hwa%20Pyeong%20Kim&fontSize=40)
 
+
+⭐️ Hi there 
+--- 
 👋 Hi, I'm Hwa Pyeong Kim  
 🎓 Kwangwoon University, Electronics Convergence Engineering / AI Semiconductor Convergence Major  
 🔧 Interested in Embedded Systems, Smart Factory, Machine Vision, and Edge AI  
 📌 Focused on connecting hardware, signal processing, data analysis, and real-time control systems
+📫 How to reach me: sky9464881@gmail.com
 
 <br>
 
-## 🔹 Tech Stack
-
+⭐️ Tech Stack
+---
 ### Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -199,11 +203,12 @@
 
 ---
 
-## 📊 GitHub Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=radical" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=radical&hide=jupyter%20notebook" height="180em"/>
-</div>
+
+⭐️ Cowork Tools 
+---
+
+  <img src="https://img.shields.io/badge/github-181717?style=plastic&logo=github&logoColor=white"><img src="https://img.shields.io/badge/git-F05032?style=plastic&logo=git&logoColor=white"><img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white"><img src="https://img.shields.io/badge/slack-4A154B?style=plastic&logo=slack&logoColor=white">
+
 
 ---
 
