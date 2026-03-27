@@ -76,7 +76,7 @@
 - **Role**: 공정 흐름과 병목 구간을 분석하고 설비 증설 및 배치 변경 방향을 설계하며 생산성 개선 방안 도출
 
 ### 📊 Python 기반 설비 운영 데이터 분석 및 시각화 프로젝트 (2026.02)
-- **Organization**: 현대오토에버 SW스쿨 스마트팩토리
+- **Organization**: Personal Project
 - **Description**: 설비 운영 데이터를 대상으로 결측치 처리, 전처리, 이상치 탐지를 수행한 데이터 분석 프로젝트
 - **Type**: Personal Project
 
