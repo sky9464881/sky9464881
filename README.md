@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hwa_Pyeong%20Kim&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hwa%20Pyeong%20Kim&fontSize=40)
 
 👋 Hi, I'm Hwa Pyeong Kim  
 🎓 Kwangwoon University, Electronics Convergence Engineering  
