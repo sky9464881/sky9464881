@@ -124,6 +124,24 @@
   타이밍 제어와 지연시간을 고려해 MCU 기반 시스템 동작을 구현했습니다.
 ---
 
+## 📚 Experience
+
+### Hyundai AutoEver SW School Smart Factory
+- **Period**: 2025.12 ~ 2026.06
+- **Position**: Class Leader
+- **Summary**:  
+  Learned and practiced key smart factory topics including manufacturing intelligence, MES, quality management, CPS, and PHM.  
+  Built experience in equipment data preprocessing, anomaly detection, machine vision, and factory system analysis.
+
+### Embedded Study Club
+- **Period**: 2025.07 ~ 2026.03
+- **Position**: Leader
+- **Summary**:  
+  Conducted weekly hands-on studies on sensors, MCU systems, and communication protocols.  
+  Worked with STM32, ATmega128, I2C, SPI, and UART while leading practical sessions and technical discussions.
+
+---
+
 ## 📊 GitHub Stats
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=radical" height="180em"/>
