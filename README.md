@@ -17,7 +17,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-6DB33F?style=flat-square)
-![Assembly](https://img.shields.io/badge/Assembly-444444?style=flat-square)
 
 ### Engineering / Tools
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white)
