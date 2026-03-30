@@ -15,7 +15,7 @@
 ### Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-6DB33F?style=flat-square)
 ![Assembly](https://img.shields.io/badge/Assembly-444444?style=flat-square)
 
