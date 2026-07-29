@@ -169,7 +169,7 @@ Digital Twin에서 생성한 결함 데이터와 실제 촬영 데이터를 활�
 - STM32F411, 카메라, LED, Step Motor를 연동한 검사 시나리오 구현
 - 데이터 생성 → 임베디드 제어 → AI 추론 → Web UI 시각화 흐름 검증
 
-**Role:** Bounding Box Annotation 자동화 및 STM32F411·Jetson Nano 기반 검사 시스템 검증  
+**Role:** 팀장 - Bounding Box Annotation 자동화 및 STM32F411·Jetson Nano 기반 검사 시스템 검증  
 **Tech Stack:** `Blender` `SSD MobileNet V2` `ONNX` `TensorRT` `STM32F411` `Jetson Nano` `React`
 
 
