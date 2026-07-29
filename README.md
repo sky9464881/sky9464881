@@ -2,8 +2,8 @@
 
 # 👋 Hi, I'm Hwa Pyeong Kim
 
-> 산업용 설비 데이터를 **수집·표준화**하고,  
-> 분석·예측·Digital Twin으로 연결하는 **Smart Factory Engineer**입니다.
+> 하드웨어·소프트웨어·데이터를 연결해 산업 현장의 문제를 분석하고,  
+> Embedded System, AI, Digital Twin 기술을 활용한 시스템 구현을 경험해 왔습니다.
 
 - 🎓 **Kwangwoon University**  
   Electronics Convergence Engineering / AI Semiconductor Interdisciplinary Major
@@ -75,23 +75,6 @@
 
 # 🏆 Featured Projects
 
-## [🏭 UECADA2 — 실시간 DAS 통합 스마트팩토리 Digital Twin](https://github.com/sky9464881/UECADA2_digital_twin_project)
-
-![Private](https://img.shields.io/badge/Repository-Private-6B7280?style=flat-square)
-![Period](https://img.shields.io/badge/Period-2026.06-2563EB?style=flat-square)
-
-기존 웹 SCADA 기반 통합설비관제시스템에 **Unreal Engine 3D Digital Twin**을 결합한 프로젝트입니다.
-
-- Unreal 기반 공정 간 물류 이송 제어 로직 개발
-- 설비 Load·Unload 및 창고 입고·출고 기능 구현
-- 설비 DAS와 Unreal 객체 간 상호작용 구현
-- 실시간 설비 상태 모니터링 및 제어 인터페이스 연동
-- 설비·공정·라인의 관계를 3D 공간에서 파악할 수 있는 운영 환경 구성
-
-**Role:** 팀원 · Unreal 설비 기능 및 제어 로직 구현  
-**Tech Stack:** `Unreal Engine` `C++` `Node-RED` `DAS` `REST API`
-
----
 
 ## [📡 UECADA — 이기종 설비 데이터 통합 관제 시스템](https://github.com/sky9464881/UECADA_SFasS)
 
@@ -111,6 +94,24 @@
 
 **Role:** 팀장 · 데이터 파이프라인 설계 및 FastAPI 분석 모듈 개발  
 **Tech Stack:** `MELSEC` `Modbus TCP/RTU` `OPC UA` `MQTT` `Node-RED` `Spring Boot` `FastAPI` `MySQL` `Vue.js` `Docker`
+
+---
+
+## [🏭 UECADA2 — 실시간 DAS 통합 스마트팩토리 Digital Twin](https://github.com/sky9464881/UECADA2_digital_twin_project)
+
+![Private](https://img.shields.io/badge/Repository-Private-6B7280?style=flat-square)
+![Period](https://img.shields.io/badge/Period-2026.06-2563EB?style=flat-square)
+
+기존 웹 SCADA 기반 통합설비관제시스템에 **Unreal Engine 3D Digital Twin**을 결합한 프로젝트입니다.
+
+- Unreal 기반 공정 간 물류 이송 제어 로직 개발
+- 설비 Load·Unload 및 창고 입고·출고 기능 구현
+- 설비 DAS와 Unreal 객체 간 상호작용 구현
+- 실시간 설비 상태 모니터링 및 제어 인터페이스 연동
+- 설비·공정·라인의 관계를 3D 공간에서 파악할 수 있는 운영 환경 구성
+
+**Role:** 팀원 · Unreal 설비 기능 및 제어 로직 구현  
+**Tech Stack:** `Unreal Engine` `C++` `Node-RED` `DAS` `REST API`
 
 ---
 
