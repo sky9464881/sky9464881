@@ -171,6 +171,26 @@ Digital Twin에서 생성한 결함 데이터와 실제 촬영 데이터를 활�
 **Role:** Bounding Box Annotation 자동화 및 STM32F411·Jetson Nano 기반 검사 시스템 검증  
 **Tech Stack:** `Blender` `SSD MobileNet V2` `ONNX` `TensorRT` `STM32F411` `Jetson Nano` `React`
 
+
+---
+
+## [🎒 머신비전 기반 캐리어 물품 배치 최적화](https://github.com/sky9464881/machine-vision-suitcase-packing)
+
+![Public](https://img.shields.io/badge/Repository-Public-22C55E?style=flat-square)
+![Period](https://img.shields.io/badge/Period-2026.03-2563EB?style=flat-square)
+
+캐리어 내부 물품을 인식하고 배치 최적화에 활용하기 위한 머신비전 프로젝트입니다.
+
+- YOLO 기반 물품 객체 인식 모델 구성
+- 프로젝트 환경에 맞춘 모델 Fine-tuning
+- 실제 환경 데이터셋 적용 가능성 검토
+- 모델 테스트 프로그램 작성 및 객체 인식 결과 검증
+
+**Role:** YOLO 모델 Fine-tuning 및 테스트 프로그램 작성  
+**Tech Stack:** `Python` `YOLO` `Computer Vision` `Object Detection` `Image Processing`
+
+
+
 ---
 
 ## [🚚 스마트 창고 출고 지연 예측 AI](https://github.com/sky9464881/smart-warehouse-outbound-delay-prediction)
@@ -192,23 +212,6 @@ Digital Twin에서 생성한 결함 데이터와 실제 촬영 데이터를 활�
 
 **Role:** 물류 데이터 전처리, 시나리오 기반 Feature Engineering 및 모델 고도화  
 **Tech Stack:** `Python` `Pandas` `LightGBM` `CatBoost` `GroupKFold` `Feature Engineering`
-
----
-
-## [🎒 머신비전 기반 캐리어 물품 배치 최적화](https://github.com/sky9464881/machine-vision-suitcase-packing)
-
-![Public](https://img.shields.io/badge/Repository-Public-22C55E?style=flat-square)
-![Period](https://img.shields.io/badge/Period-2026.03-2563EB?style=flat-square)
-
-캐리어 내부 물품을 인식하고 배치 최적화에 활용하기 위한 머신비전 프로젝트입니다.
-
-- YOLO 기반 물품 객체 인식 모델 구성
-- 프로젝트 환경에 맞춘 모델 Fine-tuning
-- 실제 환경 데이터셋 적용 가능성 검토
-- 모델 테스트 프로그램 작성 및 객체 인식 결과 검증
-
-**Role:** YOLO 모델 Fine-tuning 및 테스트 프로그램 작성  
-**Tech Stack:** `Python` `YOLO` `Computer Vision` `Object Detection` `Image Processing`
 
 <br>
 
