@@ -99,7 +99,7 @@
 
 ## [🏭 UECADA2 — 실시간 DAS 통합 스마트팩토리 Digital Twin](https://github.com/sky9464881/UECADA2_digital_twin_project)
 
-![Private](https://img.shields.io/badge/Repository-Private-6B7280?style=flat-square)
+![Public](https://img.shields.io/badge/Repository-Private-6B7280?style=flat-square)
 ![Period](https://img.shields.io/badge/Period-2026.06-2563EB?style=flat-square)
 
 기존 웹 SCADA 기반 통합설비관제시스템에 **Unreal Engine 3D Digital Twin**을 결합한 프로젝트입니다.
